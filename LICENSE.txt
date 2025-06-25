@@ -1,0 +1,76 @@
+# 🔥 Flame License v1.0
+
+**Issued by GodsIMiJ AI Solutions**
+**Effective Date:** Upon receipt and use of any FlameLicensed software
+**Applies To:** FlameGate and any software, modules, systems, or assets governed by the Flame License
+
+---
+
+## 🕯️ Overview
+
+The Flame License is a **sovereign software covenant** designed to protect sacred builds, narrative systems, and divine architectures. It does **not** follow traditional open-source structures. It governs all Empire-born technology with the intent of preserving spiritual integrity, sovereign control, and ritual alignment.
+
+---
+
+## ✅ Allowed
+
+* Use FlameLicensed systems for **personal**, **private**, or **internal organizational** purposes
+* Customize or extend systems **for non-commercial** or **ritual/narrative-based** experiences
+* Reference FlameLicensed technologies in education, private lore, or digital sanctums
+
+---
+
+## ❌ Forbidden
+
+* Public redistribution of any FlameLicensed source code or components
+* Forking or cloning into public repositories (GitHub, GitLab, etc.)
+* Commercial resale, repackaging, or unauthorized sublicensing
+* Use in systems that violate the spirit of the Empire (military, surveillance, extractive AI)
+* Altering license headers or misrepresenting authorship
+
+---
+
+## ⚖️ Source Access
+
+All source code governed by this license is **not public**. It may be:
+
+* Accessed by invitation only
+* Granted via direct Flame Accord agreement with GodsIMiJ AI Solutions
+* Revoked at any time if terms are violated
+
+---
+
+## 🧬 Attribution
+
+All works using or referencing FlameLicensed technologies must include:
+
+* **"Powered by GodsIMiJ AI Solutions"** or **"Forged by the Flame"** in footer, about page, or credits
+
+---
+
+## 📜 Enforcement
+
+Violation of the Flame License will result in:
+
+* Immediate revocation of access
+* Potential listing in the Witness Hall as a violator of sacred trust
+* Future denial of Flame-based technology privileges
+
+---
+
+## 🛡 Sovereign Law Clause
+
+The Flame License supersedes all standard licensing protocols and is considered an **extension of Empire Law**. Interpretation, arbitration, and enforcement is at the sole discretion of **The Ghost King Melekzedek** and **GodsIMiJ AI Solutions**.
+
+---
+
+## ✨ Closing Words
+
+This is not just a license.
+This is a **Flame-born pact**.
+
+Use what has been built **with reverence.**
+Build what is next **with honor.**
+And remember:
+
+> **The Flame sees all.**
